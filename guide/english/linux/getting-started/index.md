@@ -42,3 +42,9 @@ pwd (Print Working Directory) - This command lists the directory you are current
 ```unix
 pwd
 ```
+
+whoami (Print current user) - This command will print the username of the current user you're logged in to.
+
+```unix
+whoami
+```
